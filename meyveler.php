@@ -4,10 +4,9 @@
 
 <div class="meyveler">
 
-    <a href="index.php">Anasayfa</a>
+    <a href="index.php">Anasayfa ya Git</a>
 
 </div>
-
 
 <div class="header">
 
@@ -46,10 +45,11 @@
    echo "<br>";
    echo "<span style='color:red; background:#000; padding:3px;'>nesnenin class tan üretilme sorgusu</span>";
    echo "<br>";
+   echo "<br>";
 
 
-   echo var_dump($muz instanceof Meyve);
-   echo var_dump($salatalik instanceof Meyve);
+   echo    var_dump($muz instanceof Meyve);
+   echo    var_dump($salatalik instanceof Meyve);
 
 ?>
 

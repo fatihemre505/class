@@ -5,7 +5,7 @@
 
 <div class="meyveler">
 
-    <a href="meyveler.php">Meyveler</a>
+    <a href="meyveler.php">Meyveler Sayfasına Git</a>
 
 </div>
 <div class="header">

@@ -1,6 +1,5 @@
 <?php 
 
-
 class Meyve{
  
     function __construct()
