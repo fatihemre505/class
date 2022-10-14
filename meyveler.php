@@ -3,7 +3,9 @@
 <link rel="stylesheet" href="css/style.css">
 
 <div class="meyveler">
+
     <a href="index.php">Anasayfa</a>
+
 </div>
 
 
